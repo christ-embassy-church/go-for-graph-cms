@@ -37,3 +37,9 @@
     "tailwindcss": "^2.2.7"
   }
 }
+
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
